@@ -6,7 +6,7 @@ title: Jae Wook Jung's Resume
 
 <div id="webaddress">
 <a href="jaejung516@gmail.com">jaejung516@gmail.com</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/jae-wook-jung">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -17,12 +17,13 @@ title: Jae Wook Jung's Resume
 `2019-2022`
 __Brigham Young University-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Bachelor of Science in Economics    GPA: 3.978 / 4.00
+
 
 `2014-2017`
-__Myongji University__, Rexburg, ID
+__Myongji University__, Yongin, Republic of Korea
 
-- 4.0 Major GPA
+- Associates of Electrical Engineering    GPA: 3.59 / 4.00
 
 
 ## Related Experience
