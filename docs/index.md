@@ -17,25 +17,32 @@ title: Jae Wook Jung's Resume
 `2019-2022`
 __Brigham Young University-Idaho__, Rexburg, ID
 
-- Bachelor of Science in Economics    GPA: 3.978 / 4.00
+- Bachelor of Science in Economics  &nbsp; &nbsp; &nbsp; GPA: 3.978 / 4.00
 
 
 `2014-2017`
 __Myongji University__, Yongin, Republic of Korea
 
-- Associates of Electrical Engineering    GPA: 3.59 / 4.00
+- Associates of Electrical Engineering &nbsp; &nbsp; &nbsp; GPA: 3.59 / 4.00
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+__Brigham Young University-Idaho__, Rexburg, ID
+*Economics Department and Mathematics Department*
+
+`January 2022 - Present`
+__Curriculum Design Assistant__
+- Edited and corrected errors in class materials in Probability Theory
+- Rearranged unorganized class materials to flow smoother to help future students’ understanding of Probability Theory
+- Added additional class materials to help future students’ understanding of Probability Theory
+
+`September 2020 - December 2021`
+__Teaching Assistant__
+
 
 ### Data Science Lead
 
