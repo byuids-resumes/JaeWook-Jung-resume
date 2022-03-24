@@ -30,7 +30,6 @@ __Myongji University__, Yongin, Republic of Korea
 
 ### Internships
 
-
 __Brigham Young University-Idaho__, Rexburg, ID
 *Economics Department and Mathematics Department*
 
@@ -42,6 +41,33 @@ __Curriculum Design Assistant__
 
 `September 2020 - December 2021`
 __Teaching Assistant__
+- Explained to students for better understanding of concepts they learned in Intermediate Microeconomics, Principles of
+Micro/Macroeconomics, Quantitative Methods, and Differential Equations with Linear Algebra
+- Graded semester assignments & exams and made quizzes for Intermediate Microeconomics, Principles of
+Micro/Macroeconomics, Quantitative Methods, and Differential Equations with Linear Algebra
+- Assisted professors to make classes run smoothly
+
+`September 2021- November 2021`
+__Brigham Young University-Idaho__, Rexburg, ID
+*BYU-I Economics Students Consulting Group*, Research Associate
+- Conducted meeting with Economic Developers of Idaho and Utah to understand economic climates
+- Collected data to apprehend Idaho and Utah’s economic climate, labor pool, wages, and office lease
+- Delivered client information needed for better decision making
+
+`April 2021- July 2021`
+__Research and Business Development Center__, Rexburg, ID
+*Non-profit Organization*, Research Associate
+- Collected and analyzed raw data to understand the structure of aftermarket for appliances OEM parts industry
+- Apprehended how businesses that make up the targeting market interact
+- Analyzed opportunities and risks for the client market share increase
+
+`August 2015- May 2017`
+__Republic of Korea Army__, Chuncheon, Republic of Korea
+*Army Canine Unit*
+- Led a group (squad) and performed missions successfully
+- Accomplished missions in all circumstances with patience by following commands
+- Trained and conducted missions with military dogs with comrades
+
 
 
 ### Data Science Lead
