@@ -17,7 +17,7 @@ title: Jae Wook Jung's Resume
 `2019-2022`
 __Brigham Young University-Idaho__, Rexburg, ID
 
-- Bachelor of Science in Economics  &nbsp; &nbsp; &nbsp;&nbsp; GPA: 3.978 / 4.00
+- Bachelor of Science in Economics &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; GPA: 3.978 / 4.00
 
 
 `2014-2017`
