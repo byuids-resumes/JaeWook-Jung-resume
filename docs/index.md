@@ -85,8 +85,10 @@ Brigham Young University - Jack & Mary Wheatley Leadership Scholarship
 Republic of Korea Army - Squad Leader
 
 ## Skills
-__Computer Skills__: Python, R, SQL, MS Excel
-__Certifications__: Certification of Electrical Technician (2016)
+__Computer Skills__: Python, R, SQL, MS Excel <br>
+
+__Certifications__: Certification of Electrical Technician (2016)<br>
+
 __Languages__: English and Korean
 
 <!-- ### Footer
